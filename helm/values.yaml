@@ -1,5 +1,5 @@
 image:
-  repository: paulofrazao/gitops-toolkit
+  repository: paulofrazao/k8s-lb-scaling:red
   tag: latest
   pullPolicy: IfNotPresent
 ingress:

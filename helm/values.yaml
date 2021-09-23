@@ -1,6 +1,6 @@
 image:
-  repository: paulofrazao/k8s-lb-scaling:red
-  tag: latest
+  repository: paulofrazao/k8s-lb-scaling
+  tag: red
   pullPolicy: IfNotPresent
 ingress:
   enabled: true
